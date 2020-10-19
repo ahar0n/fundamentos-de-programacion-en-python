@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="4.5 5 216.9287 186" width="216.9287" height="186">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="4.5 5 225.33008 186" width="225.33008" height="186">
   <defs>
     <font-face font-family="Courier New" font-size="14" panose-1="2 7 3 9 2 2 5 2 4 4" units-per-em="1000" underline-position="-232.91016" underline-thickness="41.015625" slope="0" x-height="422.85156" cap-height="571.28906" ascent="832.5195" descent="-300.29297" font-weight="400">
       <font-face-src>
@@ -19,9 +19,9 @@
     </marker>
   </defs>
   <metadata> Produced by OmniGraffle 7.15 
-    <dc:date>2020-09-30 01:39:39 +0000</dc:date>
+    <dc:date>2020-10-01 14:52:42 +0000</dc:date>
   </metadata>
-  <g id="Canvas_1" stroke="none" fill="none" stroke-dasharray="none" stroke-opacity="1" fill-opacity="1">
+  <g id="Canvas_1" stroke-opacity="1" stroke="none" fill="none" fill-opacity="1" stroke-dasharray="none">
     <title>Canvas 1</title>
     <g id="Canvas_1: Layer 1">
       <title>Layer 1</title>
@@ -35,7 +35,7 @@
           <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" y="44">5</tspan>
           <tspan font-family="Courier New" font-size="14" font-weight="400" fill="white" y="44">___</tspan>
           <tspan font-family="Courier New" font-size="14" font-weight="700" fill="black" y="44">def </tspan>
-          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" y="44">myFuncion():</tspan>
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" y="44">mi_funcion():</tspan>
           <tspan font-family="Courier New" font-size="14" font-weight="400" fill="white" x="0" y="60">_</tspan>
           <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" y="60">6</tspan>
           <tspan font-family="Courier New" font-size="14" font-weight="400" fill="white" y="60">_______</tspan>
@@ -54,7 +54,7 @@
           <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" y="124">.</tspan>
           <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="0" y="140">18</tspan>
           <tspan font-family="Courier New" font-size="14" font-weight="400" fill="white" y="140">___</tspan>
-          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" y="140">myFunction()</tspan>
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" y="140">mi_funcion()</tspan>
           <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="0" y="156">19</tspan>
           <tspan font-family="Courier New" font-size="14" font-weight="400" fill="white" y="156">___</tspan>
           <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" y="156">…</tspan>
